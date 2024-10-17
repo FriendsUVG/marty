@@ -1,4 +1,4 @@
 # marty
-Program Robot Marty with Taspberrypi
+Program Robot Marty with Raspberrypi
 
 ![](./marty.jpg)
